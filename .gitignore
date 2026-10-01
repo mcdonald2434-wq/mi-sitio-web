@@ -1,0 +1,10 @@
+# Entornos y temporales
+.env
+node_modules/
+*.log
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+DumpStack.log*
